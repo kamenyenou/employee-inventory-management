@@ -69,3 +69,21 @@ To recreate the project in a new, empty SQLite database, run the SQL files in th
 Through this project, I practiced creating relational database tables, inserting data, using primary and foreign keys, writing SQL queries, creating triggers, joining tables, and testing database integrity.
 
 This project helped me improve my practical SQL and database management skills.
+
+
+## Project Screenshots
+
+### 1. Database Structure
+![Database Structure](Screenshots/01_database_structure.png)
+
+### 2. Employees and Departments
+![Employees and Departments](Screenshots/02_employees_departments.png)
+
+### 3. Products and Inventory
+![Products and Inventory](Screenshots/03_products_inventory.png)
+
+### 4. Inventory Transactions
+![Inventory Transactions](Screenshots/04_inventory_transactions.png)
+
+### 5. SQL Reorder Report
+![SQL Reorder Report](Screenshots/05_reorder_report.png)
